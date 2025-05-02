@@ -1,6 +1,4 @@
-# Ash
-
-title: Cybersecurity Enthusiast | Incident Responder
+# Cybersecurity Enthusiast | Incident Responder
 
 skills: [Incident Response, Threat Hunting, Malware Analysis, Network Security]
 
