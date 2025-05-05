@@ -31,9 +31,13 @@ Kali Linux · CSI Linux · Wireshark · Burp Suite · Nmap · Splunk · SIEM · 
 ## 🧠 TryHackMe Progress
 <!-- Markdown Embed for TryHackMe Badge -->
 <a href="https://tryhackme.com/p/1887309">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1887309" style='border:none;'/>
+</a>
+<!--<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1887309" style='border:none;'></iframe>
+<a href="https://tryhackme.com/p/1887309">
   <img src="https://tryhackme-badges.s3.amazonaws.com/1887309.png" alt="TryHackMe" />
 </a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1887309" style='border:none;'></iframe>
+ ->
 
 ---
 
