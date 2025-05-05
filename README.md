@@ -1,16 +1,16 @@
 # Hi, I'm Ash 👋  
 **Self-Taught Cybersecurity Enthusiast | Blue Team Defender | Bug Bounty Hunter**
 
-🔒 Join me as I explore the digital battlefield — from penetration testing and threat hunting to digital forensics and incident response.  
-💻 I break down complex topics, build cool tools, and share practical knowledge to help others break into cybersecurity.  
+🔐 Join me on my journey through cyber labs, threats, exploits, and defenses.  
+Together, we'll explore ethical hacking, incident response, OSINT, and forensics — all while building a strong, job-ready skillset.
 
 ---
 
 ## 🚀 Follow My Cybersecurity Journey  
-🌐 [Website Roadmap](https://smolash.com/roadmap) — Beginner to Pro  
-📺 [YouTube](https://youtube.com/smolash) — Cyber Labs, Tutorials & More  
-📄 [Build a Resume](https://hyr.sh) — Fast, free & job-focused  
-🧪 Custom CyberLab Setup Guide — Coming Soon!
+🌐 [Roadmap](https://smolash.com/roadmap) — Beginner to Pro  
+📺 [YouTube](https://youtube.com/smolash) — Cyber Labs & Tutorials  
+📄 [Build a Resume](https://hyr.sh) — Free & job-ready  
+🧪 CyberLab Setup Guide — Coming Soon!
 
 ---
 
@@ -29,15 +29,10 @@ Kali Linux · CSI Linux · Wireshark · Burp Suite · Nmap · Splunk · SIEM · 
 ---
 
 ## 🧠 TryHackMe Progress
-<!-- Markdown Embed for TryHackMe Badge -->
-<a href="https://tryhackme.com/p/1887309">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1887309" style='border:none;'/>
-</a>
-<!--<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1887309" style='border:none;'></iframe>
-<a href="https://tryhackme.com/p/1887309">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/1887309.png" alt="TryHackMe" />
-</a>
- ->
+
+![TryHackMe Badge](./tryhackme-badge.png)
+
+> *(Auto-updates daily via GitHub Actions)*
 
 ---
 
