@@ -5,7 +5,6 @@
 Together, we'll explore ethical hacking, incident response, OSINT, and forensics — all while building a strong, job-ready skillset.
 
 ---
-
 ## 🚀 Follow My Cybersecurity Journey  
 🌐 [Roadmap](https://smolash.com/roadmap) — Beginner to Pro  
 📺 [YouTube](https://youtube.com/smolash) — Cyber Labs & Tutorials  
